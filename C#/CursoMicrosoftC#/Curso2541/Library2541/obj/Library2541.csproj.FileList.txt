@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\Library2541.dll
-bin\Debug\Library2541.pdb
-obj\Debug\Library2541.dll
-obj\Debug\Library2541.pdb

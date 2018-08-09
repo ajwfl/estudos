@@ -1,1 +1,0 @@
-regsvr32.exe /u C:\Inetpub\wwwroot\ConversorFLV\bin\FFMPEGScout.dll

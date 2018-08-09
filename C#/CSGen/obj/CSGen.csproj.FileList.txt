@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\CSGen.exe
-bin\Debug\CSGen.pdb
-obj\Debug\CSGen.exe
-obj\Debug\CSGen.pdb

@@ -1,5 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-bin\Debug\Controls.dll
-bin\Debug\Controls.pdb
-obj\Debug\Controls.dll
-obj\Debug\Controls.pdb
